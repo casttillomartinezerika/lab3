@@ -1,0 +1,14 @@
+[
+    {
+        "titulo":"Tarjeta 1",
+        "contenido":"contenido de la tarjeta 1"
+    },
+    {
+        "titulo":"Tarjeta 2",
+        "contenido":"contenido de la tarjeta 2"
+    },
+    {
+        "titulo":"Tarjeta 3",
+        "contenido":"contenido de la tarjeta 3"
+    }
+]
